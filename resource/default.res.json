@@ -1,0 +1,60 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,aaa_jpg,useone_jpg,usetxa_png,usetxb_png,txa_jpg,txa_png,useb_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "aaa_jpg",
+			"type": "image",
+			"url": "assets/aaa.jpg"
+		},
+		{
+			"name": "useone_jpg",
+			"type": "image",
+			"url": "assets/useone.jpg"
+		},
+		{
+			"name": "usetxa_png",
+			"type": "image",
+			"url": "assets/usetxa.png"
+		},
+		{
+			"name": "usetxb_png",
+			"type": "image",
+			"url": "assets/usetxb.png"
+		},
+		{
+			"name": "txa_jpg",
+			"type": "image",
+			"url": "assets/txa.jpg"
+		},
+		{
+			"name": "txa_png",
+			"type": "image",
+			"url": "assets/txa.png"
+		},
+		{
+			"name": "useb_jpg",
+			"type": "image",
+			"url": "assets/useb.jpg"
+		}
+	]
+}
